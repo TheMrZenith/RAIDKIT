@@ -31,7 +31,7 @@ Make sure you have the following:
 1. **Clone or Download the Repo**:
     Download the entire repository or clone it using:
   ```bash
-  git clone https://github.com/Zsocietyy/Raid_Kit
+  git clone https://github.com/TheMrZenith/RAIDKIT
   ```
 
 2. **Create a Discord Bot:**
