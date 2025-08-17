@@ -7,7 +7,7 @@ filepath = Path(__file__).resolve().parent / "src" / "raidbot.py"
 def clear(): os.system('cls' if os.name == 'nt' else 'clear')
 
 
-banner = """
+banner = r"""
  ██▀███   ▄▄▄       ██▓▓█████▄  ▄▄▄▄    ▒█████  ▄▄▄█████▓   
 ▓██ ▒ ██▒▒████▄    ▓██▒▒██▀ ██▌▓█████▄ ▒██▒  ██▒▓  ██▒ ▓▒   
 ▓██ ░▄█ ▒▒██  ▀█▄  ▒██▒░██   █▌▒██▒ ▄██▒██░  ██▒▒ ▓██░ ▒░   
